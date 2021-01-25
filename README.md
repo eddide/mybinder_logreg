@@ -1,3 +1,17 @@
+[[poc]]
+
+# Binder Badge
+https://mybinder.org/v2/gh/eddide/mybinder_logreg/23ab37941c6f7fe1791ccc451c6570af4551a87e
+
+# Dokumentation zur Ausführung
+1. Aktivieren des Links zu Binder
+2. Öffnen des Python-Notebooks "Installationen"
+3. In der Toolbar unter "Kernel" "Restart & Run All" aktivieren
+4. Nach der erfolgreichen Ausführung Schließen des Python-Notenooks "Installationen"
+5. Öffnen des Pyhton-Notebooks "Logistic Regression"
+6. In der Toolbar unter "Kernel" "Restart & Run All" aktivieren.
+7. Ergebnisse mit den unten beschriebenen Ergebnissen abgleichen.
+
 # Logistische Regression
 
 In diesem Projekt werden wir mit Fake-Daten zu Werbung arbeiten, die aufzeigen, ob ein Nutzer auf eine Werbeanzeige auf einer Webseite einer Firma geklickt hat oder nicht. Wir werden versuchen ein Modell zu erstellen, das anhand von Nutzereigenschaften vorhersagt, ob dieser auf die Werbung klicken wird oder nicht.
@@ -37,7 +51,8 @@ Anwenden der logistischen Regression zur Vorhersage der Kategorie
 - Aufsplitten in Trainings- und Testdaten
 - Trainieren und Fitten des Modells auf den Datensatz
 ### Evaluation der Vorhersage
-Evaluierung über den classification report:
+Evaluierung über den classification report.
+Es sollten ähnliche Ergebnisse wie diese angezeigt werden:
 - accuracy: 91%
 - reall: 96 und 86%
 - f1-score: 91 und 91 %
