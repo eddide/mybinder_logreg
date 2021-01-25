@@ -1,4 +1,4 @@
-[[poc]]
+\[\[_TOC_\]\]
 
 # Binder Badge
 https://mybinder.org/v2/gh/eddide/mybinder_logreg/23ab37941c6f7fe1791ccc451c6570af4551a87e
