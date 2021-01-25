@@ -52,5 +52,5 @@ Anwenden der logistischen Regression zur Vorhersage der Kategorie
 Evaluierung über den classification report.
 Es sollten ähnliche Ergebnisse wie diese angezeigt werden:
 - accuracy: 91%
-- reall: 96 und 86%
-- f1-score: 91 und 91 %
+- reall: 96 und 85%
+- f1-score: 91 und 90 %
