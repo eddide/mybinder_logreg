@@ -12,4 +12,3 @@ pandas-datareader
 scikit-learn
 pydot
 graphviz
-tensorflow==1.15
