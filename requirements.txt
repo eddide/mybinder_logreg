@@ -1,2 +1,16 @@
 numpy
-
+pandas
+xlrd
+openpyxl
+lxml
+sqlalchemy
+matplotlib
+seaborn
+chart-studio
+chart-studio
+pandas-datareader
+scikit-learn
+pydot
+graphviz
+pyspark
+tensorflow==1.15
